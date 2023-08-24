@@ -21,8 +21,6 @@ def login():
     chrome_options.add_argument("--ignore-certificate-errors")
     chrome_options.add_argument("--ignore-ssl-errors")
     chrome_options.add_argument("--ignore-certificate-errors-spki-list")
-    chrome_options.add_argument("--user-data-dir=C:\\Users\\hcrites\\AppData\\Local\\Google\\Chrome\\User Data")
-    chrome_options.add_argument("--profile-directory=Profile 4")
     chrome_options.add_argument("--remote-allow-origins=*")
     #chrome_options.add_argument("--headless")
     #chrome_options.add_argument("--incognito");
