@@ -1,0 +1,2 @@
+link_type	course_pk	link_info	link_name	link_avail	link_pos
+151937	1237553	publishPickedLocation('278','NAVIGATION_ITEM','/Tools/Send Email/Select Users','false');return false;	Email Classmates	Y	13

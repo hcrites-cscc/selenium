@@ -1,0 +1,1 @@
+tool_handle	course_pk1	parent_pk1	content_title	content_body	content_available	content_tracking

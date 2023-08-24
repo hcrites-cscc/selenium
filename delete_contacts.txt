@@ -1,0 +1,1 @@
+course_pk1	parent_contacts_pk1	contact_pk1

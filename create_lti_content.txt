@@ -1,0 +1,1 @@
+lti_pk1	course_pk1	parent_pk1	content_title	content_body	content_available	content_tracking	eval_ind	points_possible	visible_ind	due_date_ind	due_date	due_time

@@ -1,0 +1,1 @@
+course_pk1	parent_pk1	old_content_pk1	content_name	content_tracking	content_avail	content_pos	content_body

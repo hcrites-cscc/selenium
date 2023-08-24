@@ -1,0 +1,1 @@
+course_pk1	conf_pk1	forum_pk1	thread_pk1_list_delimited_by_pipe

@@ -1,0 +1,1 @@
+course_pk1	os_path_to_new_banner (don't forget to escape the backslash)
